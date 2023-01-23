@@ -8,6 +8,3 @@
 172.31.20.3
 
 
-[mywebserver:vars]
-myjavajdk8onubuntu= openjdk-8-jdk
-myjavajdk8onredhat= java-1.8.0-openjdk
