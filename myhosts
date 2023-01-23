@@ -9,5 +9,5 @@
 
 
 [mywebserver:vars]
-myjavajdk8onubuntu= openjdk-8-jdk
+myjavajdk8onubuntu= openjdk-8-jdkkkk
 myjavajdk8onredhat= java-1.8.0-openjdk
