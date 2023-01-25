@@ -10,7 +10,7 @@
 
     - name: i want to install wget 
       apt:
-         name : wget
+         name : wgett
          state: present
       tags: mywget
 
